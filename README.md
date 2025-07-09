@@ -20,7 +20,8 @@ Here's an overview of my current progress on LeetCode:
 ## Recently Solved Problems ✨
 
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
-
-1.  **[Two Sum]** (Easy) - [Link to your solution](https://github.com/L4yoos/leetcode/blob/main/1_TwoSum/Solution.java) (2025.07.09)
-2.  **[Add Two Numbers]** (Medium) - [Link to your solution](https://github.com/L4yoos/leetcode/blob/main/2_AddTwoNumbers/Solution.java) (2025.07.09)
+    
+1.  **[Add Two Numbers]** (Medium) - [Link to your solution](https://github.com/L4yoos/leetcode/blob/main/2_AddTwoNumbers_Medium/Solution.java) (2025.07.09)
+2.  **[Two Sum]** (Easy) - [Link to your solution](https://github.com/L4yoos/leetcode/blob/main/1_TwoSum_Easy/Solution.java) (2025.07.09)
+    
 ---
