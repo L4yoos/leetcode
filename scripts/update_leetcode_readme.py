@@ -84,13 +84,13 @@ def get_solution_stats(base_path):
 def update_readme_content(easy, medium, hard, total, recently_solved_list):
     status_section = f"""## LeetCode Status 📈
 
-    Here's an overview of my current progress on LeetCode:
+Here's an overview of my current progress on LeetCode:
     
-    * **Easy Problems Solved:** {easy}
-    * **Medium Problems Solved:** {medium}
-    * **Hard Problems Solved:** {hard}
+* **Easy Problems Solved:** {easy}
+* **Medium Problems Solved:** {medium}
+* **Hard Problems Solved:** {hard}
     
-    **Total Problems Solved:** {total}
+**Total Problems Solved:** {total}
     """
 
     recently_solved_items = []
@@ -104,9 +104,9 @@ def update_readme_content(easy, medium, hard, total, recently_solved_list):
 
     recently_solved_section = f"""## Recently Solved Problems ✨
 
-    Here are some of the latest problems I've tackled. You can find the solutions linked below:
+Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
-    {"\n".join(recently_solved_items)}
+{"\n".join(recently_solved_items)}
     """
 
     return status_section, recently_solved_section
