@@ -2,6 +2,8 @@
 
 Welcome to my LeetCode solutions repository! This space is dedicated to tracking my progress and storing my solutions to various algorithmic problems from LeetCode.
 
+[Profile LeetCode](https://leetcode.com/u/L4yoos/)
+
 ---
 
 ## LeetCode Status 📈
