@@ -99,7 +99,7 @@ Here's an overview of my current progress on LeetCode:
     else:
         for i, item in enumerate(recently_solved_list):
             recently_solved_items.append(
-                f"{i + 1}.  **[{item['name']}]** ({item['difficulty']}) - [Link to your solution]({item['link']}) ({item['date']})"
+                f"{i + 1}.  **[{item['name']}]** ({item['difficulty']}) - [Link to my solution]({item['link']}) ({item['date']})"
             )
 
     recently_solved_section = f"""## Recently Solved Problems ✨
