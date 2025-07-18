@@ -11,10 +11,10 @@ Welcome to my LeetCode solutions repository! This space is dedicated to tracking
 Here's an overview of my current progress on LeetCode:
     
 * **Easy Problems Solved:** 2
-* **Medium Problems Solved:** 6
+* **Medium Problems Solved:** 7
 * **Hard Problems Solved:** 2
     
-**Total Problems Solved:** 10
+**Total Problems Solved:** 11
     
 
 ---
@@ -23,10 +23,10 @@ Here's an overview of my current progress on LeetCode:
 
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
-1.  **[Regular Expression Matching]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/10_RegularExpressionMatching_Hard/Solution.java) (2025.07.17)
-2.  **[Palindrome Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/9_PalindromeNumber_Easy/Solution.java) (2025.07.16)
-3.  **[String To Integer]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/8_StringToInteger_Medium/Solution.java) (2025.07.15)
-4.  **[Reverse Integer]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/7_ReverseInteger_Medium/Solution.java) (2025.07.14)
-5.  **[Zigzag Conversion]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/6_ZigzagConversion_Medium/Solution.java) (2025.07.13)
+1.  **[Container With Most Water]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/11_ContainerWithMostWater_Medium/Solution.java) (2025.07.18)
+2.  **[Regular Expression Matching]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/10_RegularExpressionMatching_Hard/Solution.java) (2025.07.17)
+3.  **[Palindrome Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/9_PalindromeNumber_Easy/Solution.java) (2025.07.16)
+4.  **[String To Integer]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/8_StringToInteger_Medium/Solution.java) (2025.07.15)
+5.  **[Reverse Integer]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/7_ReverseInteger_Medium/Solution.java) (2025.07.14)
     
 ---
