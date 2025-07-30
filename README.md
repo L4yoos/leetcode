@@ -12,9 +12,9 @@ Here's an overview of my current progress on LeetCode:
     
 * **Easy Problems Solved:** 6
 * **Medium Problems Solved:** 14
-* **Hard Problems Solved:** 2
+* **Hard Problems Solved:** 3
     
-**Total Problems Solved:** 22
+**Total Problems Solved:** 23
     
 
 ---
@@ -23,10 +23,10 @@ Here's an overview of my current progress on LeetCode:
 
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
-1.  **[Generate Parentheses]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/22_GenerateParentheses_Medium/Solution.java) (2025.07.29)
-2.  **[Merge Two Sorted Lists]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/21_MergeTwoSortedLists_Easy/Solution.java) (2025.07.28)
-3.  **[Valid Parentheses]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/20_ValidParentheses_Easy/Solution.java) (2025.07.28)
-4.  **[Remove Nth Node From Endof List]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/19_RemoveNthNodeFromEndofList_Medium/Solution.java) (2025.07.26)
-5.  **[Sum]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/18_4Sum_Medium/Solution.java) (2025.07.25)
+1.  **[Mergek Sorted Lists]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/23_MergekSortedLists_Hard/Solution.java) (2025.07.30)
+2.  **[Generate Parentheses]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/22_GenerateParentheses_Medium/Solution.java) (2025.07.29)
+3.  **[Merge Two Sorted Lists]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/21_MergeTwoSortedLists_Easy/Solution.java) (2025.07.28)
+4.  **[Valid Parentheses]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/20_ValidParentheses_Easy/Solution.java) (2025.07.28)
+5.  **[Remove Nth Node From Endof List]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/19_RemoveNthNodeFromEndofList_Medium/Solution.java) (2025.07.26)
     
 ---
