@@ -23,10 +23,10 @@ Here's an overview of my current progress on LeetCode:
 
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
-1.  **[Balanced Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/110_BalancedBinaryTree_Easy/Solution.java) (2025.08.08)
-2.  **[Convert Sorted Arrayto Binary Search Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/108_ConvertSortedArraytoBinarySearchTree_Easy/Solution.java) (2025.08.08)
-3.  **[Symmetric Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/101_SymmetricTree_Easy/Solution.java) (2025.08.07)
-4.  **[Maximum Depth For Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/104_MaximumDepthForBinaryTree_Easy/Solution.java) (2025.08.07)
+1.  **[Convert Sorted Arrayto Binary Search Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/108_ConvertSortedArraytoBinarySearchTree_Easy/Solution.java) (2025.08.08)
+2.  **[Balanced Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/110_BalancedBinaryTree_Easy/Solution.java) (2025.08.08)
+3.  **[Maximum Depth For Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/104_MaximumDepthForBinaryTree_Easy/Solution.java) (2025.08.07)
+4.  **[Symmetric Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/101_SymmetricTree_Easy/Solution.java) (2025.08.07)
 5.  **[Same Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/100_SameTree_Easy/Solution.java) (2025.08.06)
     
 ---
