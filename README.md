@@ -11,10 +11,10 @@ Welcome to my LeetCode solutions repository! This space is dedicated to tracking
 Here's an overview of my current progress on LeetCode:
     
 * **Easy Problems Solved:** 24
-* **Medium Problems Solved:** 16
+* **Medium Problems Solved:** 17
 * **Hard Problems Solved:** 3
     
-**Total Problems Solved:** 43
+**Total Problems Solved:** 44
     
 
 ---
@@ -24,9 +24,9 @@ Here's an overview of my current progress on LeetCode:
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
 1.  **[Reordered Power Of2]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/869_ReorderedPowerOf2_Medium/Solution.java) (2025.08.10)
-2.  **[Minimum Depth Of Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/111_MinimumDepthOfBinaryTree_Easy/Solution.java) (2025.08.09)
-3.  **[Path Sum]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/112_PathSum_Easy/Solution.java) (2025.08.09)
-4.  **[Convert Sorted Arrayto Binary Search Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/108_ConvertSortedArraytoBinarySearchTree_Easy/Solution.java) (2025.08.08)
-5.  **[Balanced Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/110_BalancedBinaryTree_Easy/Solution.java) (2025.08.08)
+2.  **[Divide Two Integers]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/29_DivideTwoIntegers_Medium/Solution.java) (2025.08.10)
+3.  **[Minimum Depth Of Binary Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/111_MinimumDepthOfBinaryTree_Easy/Solution.java) (2025.08.09)
+4.  **[Path Sum]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/112_PathSum_Easy/Solution.java) (2025.08.09)
+5.  **[Convert Sorted Arrayto Binary Search Tree]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/108_ConvertSortedArraytoBinarySearchTree_Easy/Solution.java) (2025.08.08)
     
 ---
