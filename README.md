@@ -11,10 +11,10 @@ Welcome to my LeetCode solutions repository! This space is dedicated to tracking
 Here's an overview of my current progress on LeetCode:
     
 * **Easy Problems Solved:** 33
-* **Medium Problems Solved:** 20
+* **Medium Problems Solved:** 21
 * **Hard Problems Solved:** 3
     
-**Total Problems Solved:** 56
+**Total Problems Solved:** 57
     
 
 ---
@@ -23,10 +23,10 @@ Here's an overview of my current progress on LeetCode:
 
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
-1.  **[Maximum69 Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/1323_Maximum69Number_Easy/Solution.java) (2025.08.16)
-2.  **[Single Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/136_SingleNumber_Easy/Solution.java) (2025.08.16)
-3.  **[Power Of Four]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/342_PowerOfFour_Easy/Solution.java) (2025.08.15)
-4.  **[Contains Duplicate]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/217_ContainsDuplicate_Easy/Solution.java) (2025.08.15)
-5.  **[Power Of Two]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/231_PowerOfTwo_Easy/Solution.java) (2025.08.14)
+1.  **[New21 Game]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/837_New21Game_Medium/Solution.java) (2025.08.17)
+2.  **[Maximum69 Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/1323_Maximum69Number_Easy/Solution.java) (2025.08.16)
+3.  **[Single Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/136_SingleNumber_Easy/Solution.java) (2025.08.16)
+4.  **[Power Of Four]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/342_PowerOfFour_Easy/Solution.java) (2025.08.15)
+5.  **[Contains Duplicate]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/217_ContainsDuplicate_Easy/Solution.java) (2025.08.15)
     
 ---
