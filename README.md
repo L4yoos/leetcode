@@ -10,11 +10,11 @@ Welcome to my LeetCode solutions repository! This space is dedicated to tracking
 
 Here's an overview of my current progress on LeetCode:
     
-* **Easy Problems Solved:** 35
+* **Easy Problems Solved:** 36
 * **Medium Problems Solved:** 22
 * **Hard Problems Solved:** 4
     
-**Total Problems Solved:** 61
+**Total Problems Solved:** 62
     
 
 ---
@@ -24,9 +24,9 @@ Here's an overview of my current progress on LeetCode:
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
 1.  **[Number Of Zero Filled Sub Arrays]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/2348_NumberOfZeroFilledSubArrays_Medium/Solution.java) (2025.08.19)
-2.  **[Game]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/679_24Game_Hard/Solution.java) (2025.08.18)
-3.  **[Pascal Triangle I I]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/119_PascalTriangleII_Easy/Solution.java) (2025.08.18)
-4.  **[New21 Game]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/837_New21Game_Medium/Solution.java) (2025.08.17)
-5.  **[Reverse String]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/344_ReverseString_Easy/Solution.java) (2025.08.17)
+2.  **[Best Time To Buy And Sell Stock]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/121_BestTimeToBuyAndSellStock_Easy/Solution.java) (2025.08.19)
+3.  **[Game]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/679_24Game_Hard/Solution.java) (2025.08.18)
+4.  **[Pascal Triangle I I]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/119_PascalTriangleII_Easy/Solution.java) (2025.08.18)
+5.  **[New21 Game]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/837_New21Game_Medium/Solution.java) (2025.08.17)
     
 ---
