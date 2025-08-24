@@ -11,10 +11,10 @@ Welcome to my LeetCode solutions repository! This space is dedicated to tracking
 Here's an overview of my current progress on LeetCode:
     
 * **Easy Problems Solved:** 40
-* **Medium Problems Solved:** 25
+* **Medium Problems Solved:** 26
 * **Hard Problems Solved:** 5
     
-**Total Problems Solved:** 70
+**Total Problems Solved:** 71
     
 
 ---
@@ -23,10 +23,10 @@ Here's an overview of my current progress on LeetCode:
 
 Here are some of the latest problems I've tackled. You can find the solutions linked below:
     
-1.  **[Find The Minimum Area To Cover All Ones I I]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/3197_FindTheMinimumAreaToCoverAllOnesII_Hard/Solution.java) (2025.08.23)
-2.  **[Missing Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/268_MissingNumber_Easy/Solution.java) (2025.08.23)
-3.  **[Fizz Buzz]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/412_FizzBuzz_Easy/Solution.java) (2025.08.22)
-4.  **[Find The Minimum Area To Cover All Ones I]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/3195_FindTheMinimumAreaToCoverAllOnesI_Medium/Solution.java) (2025.08.22)
-5.  **[Count Submatrices With All Ones]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/1504_CountSubmatricesWithAllOnes_Medium/Solution.java) (2025.08.21)
+1.  **[Longest Subarray Of1 After Deleting One Element]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/1493_LongestSubarrayOf1'sAfterDeletingOneElement_Medium/Solution.java) (2025.08.24)
+2.  **[Find The Minimum Area To Cover All Ones I I]** (Hard) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/3197_FindTheMinimumAreaToCoverAllOnesII_Hard/Solution.java) (2025.08.23)
+3.  **[Missing Number]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/268_MissingNumber_Easy/Solution.java) (2025.08.23)
+4.  **[Fizz Buzz]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/412_FizzBuzz_Easy/Solution.java) (2025.08.22)
+5.  **[Find The Minimum Area To Cover All Ones I]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/3195_FindTheMinimumAreaToCoverAllOnesI_Medium/Solution.java) (2025.08.22)
     
 ---
