@@ -25,8 +25,8 @@ Here are some of the latest problems I've tackled. You can find the solutions li
     
 1.  **[Final Valueof Variable After Performing Operations]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/2011_FinalValueofVariableAfterPerformingOperations_Easy/Solution.java) (2025.10.20)
 2.  **[Intersectionof Two Linked Lists]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/160_IntersectionofTwoLinkedLists_Easy/Solution.java) (2025.08.29)
-3.  **[Sort Matrix By Diagonal]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/3446_SortMatrixByDiagonal_Medium/Solution.java) (2025.08.28)
-4.  **[Binary Tree Post Order Traversal]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/145_BinaryTreePostOrderTraversal_Easy/Solution.java) (2025.08.28)
+3.  **[Binary Tree Post Order Traversal]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/145_BinaryTreePostOrderTraversal_Easy/Solution.java) (2025.08.28)
+4.  **[Sort Matrix By Diagonal]** (Medium) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/3446_SortMatrixByDiagonal_Medium/Solution.java) (2025.08.28)
 5.  **[Binary Tree Preorder Traversal]** (Easy) - [Link to my solution](https://github.com/L4yoos/leetcode/blob/main/144_BinaryTreePreorderTraversal_Easy/Solution.java) (2025.08.27)
     
 ---
